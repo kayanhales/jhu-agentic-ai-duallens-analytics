@@ -2,7 +2,7 @@
 
 A RAG-powered investment analysis system that combines quantitative financial data with qualitative AI initiative documents to rank and recommend technology companies for investment.
 
-Built as a project for the Agentic AI course at Johns Hopkins University.
+Built as a project for the Agentic AI course at Johns Hopkins University (Week 4).
 
 ---
 
@@ -62,7 +62,7 @@ Financial Data (yFinance) ──────────────────
 ## Setup
 
 ```bash
-git clone https://github.com/kayanhales/duallens-analytics.git
+git clone https://github.com/kayanhales/jhu-agentic-ai-duallens-analytics.git
 cd duallens-analytics
 pip install -r requirements.txt
 ```
@@ -79,7 +79,7 @@ Create a `config.json` file:
 Then open the notebook:
 
 ```bash
-jupyter notebook DualLens_Analytics.ipynb
+jupyter notebook JHU_AgenticAI_Project_1_Learners_Notebook-3.ipynb
 ```
 
 ---
