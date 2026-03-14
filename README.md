@@ -63,7 +63,7 @@ Financial Data (yFinance) ──────────────────
 
 ```bash
 git clone https://github.com/kayanhales/jhu-agentic-ai-duallens-analytics.git
-cd duallens-analytics
+cd jhu-agentic-ai-duallens-analytics
 pip install -r requirements.txt
 ```
 
